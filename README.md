@@ -1,4 +1,4 @@
-# ⠃⠗⠁⠊⠇⠇⠑ DIY Braille Plotter
+# ⠠⠕⠏⠑⠝⠠⠑⠍⠃⠕⠎⠎  OpenEmboss DIY Braille Plotter
 
 A fully open-source desktop braille embosser built from off-the-shelf hardware, an Arduino Mega, and a Python GUI application. Translates plain text into Grade 1 or Grade 2 UEB braille and drives a solenoid-tipped gantry to emboss raised dots onto paper.
 
