@@ -377,4 +377,3 @@ Both `braille_plotter.py` and `braille_plotter_app.py` must be in the same folde
 
 ---
 
-This project is released for personal and educational use. All hardware designs, firmware, and software were developed as part of a custom build. Attribution appreciated but not required.
