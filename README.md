@@ -33,12 +33,13 @@ The Python application translates text to Unicode braille, computes the physical
 ---
 
 ## Hardware
-| Metric | M3 Hardware|
-| Metric | M3 Heat set inserts, 4mm|
+
 ### Motion and structure
 
 | Part | Specification |
 |---|---|
+| Fasteners | M3 and m5 Hardware|
+| Heat inserts | M3 Heat set inserts, 4mm|
 | Frame | 3D printed PLA side plates, 4 mm wall |
 | X stepper | NEMA17, 1.7 A, 200 steps/rev |
 | Y stepper | NEMA17, 1.7 A, 200 steps/rev |
